@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MoviesApplication</string>
+    <string name="error_message">Please try again</string>
+    <string name="synopsis">SYNOPSIS</string>
+    <string name="release_date">RELEASE DATE</string>
+    <string name="genre">GENRE</string>
+    <string name="language">LANGUAGE</string>
+    <string name="runtime">DURATION</string>
+    <string name="book_now">Book now</string>
+    <string name="error_internet">No Internet Connection</string>
+</resources>
