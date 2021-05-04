@@ -1,4 +1,4 @@
-package com.example.moviesapplication.data
+package com.example.moviesapplication.ui.activity
 
 import com.example.moviesapplication.model.movies.Movie
 

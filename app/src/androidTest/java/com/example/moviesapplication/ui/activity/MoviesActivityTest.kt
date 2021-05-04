@@ -9,7 +9,6 @@ import androidx.test.espresso.matcher.ViewMatchers.*
 import androidx.test.ext.junit.rules.ActivityScenarioRule
 import androidx.test.internal.runner.junit4.AndroidJUnit4ClassRunner
 import com.example.moviesapplication.R
-import com.example.moviesapplication.data.FakeMovieData
 import androidx.test.espresso.contrib.RecyclerViewActions.*
 import com.example.moviesapplication.ui.adapter.MoviesListPagedAdapter
 import com.example.moviesapplication.utils.EspressoIdlingResource
